@@ -6,5 +6,6 @@ return {
 	require("plugins.ts"),
 	require("plugins.harpoon"),
 	require("plugins.undotree"),
-	require("plugins.fugitive")
+	require("plugins.fugitive"),
+	require("plugins.lsp")
 }
